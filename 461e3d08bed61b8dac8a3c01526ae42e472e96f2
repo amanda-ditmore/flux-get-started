@@ -1,0 +1,1 @@
+{"jobID":"7e6ebb96-a9b6-0b72-1ec0-675367781253","spec":{"type":"policy","cause":{"Message":"","User":"Amanda Ditmore \u003camanda.ditmore@invitae.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag.podinfo":"glob:3.2.*"},"remove":{}}}},"result":null}
